@@ -1,0 +1,21 @@
+# Compiled MQL5 files
+*.ex5
+
+# Compiled MQL4 files
+*.ex4
+
+# Backups and temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDE and editor files
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# MetaTrader temporary files
+*.log
