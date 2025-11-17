@@ -54,7 +54,7 @@ Time;Spread
 
 ## Uso
 
-1. Compilar el archivo `gh.mq5`
+1. Compilar el archivo `SpreadRecorder.mq5`
 2. Arrastrar el EA a un gráfico del par de divisas deseado
 3. El EA comenzará a registrar datos automáticamente
 4. Los datos se guardarán en el archivo CSV correspondiente
